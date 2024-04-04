@@ -1189,7 +1189,7 @@ section {
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials {
-  background: url(/assets/img/testimonial-bg.jpg) no-repeat;
+  background: url(../assets/img/testimonial-bg.jpg) no-repeat;
 }
 
 .testimonials .testimonial-wrap {
