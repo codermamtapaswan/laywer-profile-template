@@ -1416,8 +1416,8 @@ section {
 --------------------------------------------------------------*/
 
 #footer {
-  /* background: var(--sc); */
-  background: url(../img/bottom-bg-footer.jpg) no-repeat;
+  background: var(--sc) url(../img/bottom-bg-footer.jpg) no-repeat;
+  height: 100%;
   padding: 30px;
   color: #fff;
   font-size: 14px;
