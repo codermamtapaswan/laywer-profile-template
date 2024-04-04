@@ -982,7 +982,7 @@ section {
 # why-choose
 --------------------------------------------------------------*/
 .call-to-action {
-  background: url(/assets/img/why-background-overlay.png) no-repeat;
+  background: url(../img/why-background-overlay.png) no-repeat;
   padding: 60px 0 120px 0;
   text-align: center;
 }
@@ -1189,7 +1189,7 @@ section {
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials {
-  background: url(../assets/img/testimonial-bg.jpg) no-repeat;
+  background: url(../img/testimonial-bg.jpg) no-repeat;
 }
 
 .testimonials .testimonial-wrap {
@@ -1417,7 +1417,7 @@ section {
 
 #footer {
   /* background: var(--sc); */
-  background: url(/assets/img/bottom-bg-footer.jpg) no-repeat;
+  background: url(../img/bottom-bg-footer.jpg) no-repeat;
   padding: 30px;
   color: #fff;
   font-size: 14px;
