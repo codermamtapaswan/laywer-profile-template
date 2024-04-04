@@ -170,7 +170,7 @@ h6,
 
 #header .btn-get-started {
   padding: 10px 20px !important;
-  margin-left: 30px;
+  width: fit-content;
 }
 
 /*--------------------------------------------------------------
